@@ -27,4 +27,4 @@ This project detects faults in communication signals using MATLAB signal process
 3. Click Run
 
 ## Author
-Your Name
+Priya Dev
